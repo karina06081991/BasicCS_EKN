@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.GlobalUsings.g.cs
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\022.exe
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\022.deps.json
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\022.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\022.dll
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\ref\022.dll
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\bin\Debug\net6.0\022.pdb
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.dll
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\ref\022.dll
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.pdb
+C:\Users\Lenovo\Desktop\BasicCS_EKN\022\obj\Debug\net6.0\022.genruntimeconfig.cache
