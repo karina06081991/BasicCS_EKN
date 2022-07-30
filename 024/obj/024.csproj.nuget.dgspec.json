@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\032\\32.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\024\\024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\032\\32.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\024\\024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\032\\32.csproj",
-        "projectName": "32",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\032\\32.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\024\\024.csproj",
+        "projectName": "024",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\024\\024.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\032\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\BasicCS_EKN\\024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
